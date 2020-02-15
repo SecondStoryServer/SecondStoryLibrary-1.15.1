@@ -1,0 +1,5 @@
+name: SecondStoryLibrary
+version: '1.0'
+api-version: "1.13"
+main: me.syari.sec_story.paper.library.Main
+author: sya_ri
